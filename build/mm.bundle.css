@@ -3139,7 +3139,7 @@ a.subdued {
       background-image: linear-gradient(180deg, #6b46e5, #6b46e5 50%, transparent 50%); }
   .bar.bar-dark {
     border-color: #111;
-    background-color: #444444;
+    background-color: #333333;
     background-image: linear-gradient(0deg, #111, #111 50%, transparent 50%);
     color: #fff; }
     .bar.bar-dark .title {
@@ -3402,7 +3402,7 @@ a.subdued {
 
 .bar-dark .button {
   border-color: #111;
-  background-color: #444444;
+  background-color: #333333;
   color: #fff; }
   .bar-dark .button:hover {
     color: #fff;
@@ -7717,21 +7717,21 @@ em {
  */
 .bar-content {
   border-color: transparent;
-  background-color: #f70;
+  background-color: #333333;
   background-image: linear-gradient(0deg, transparent, transparent 50%, transparent 50%);
   color: #fff; }
   .bar-content .title {
     color: #fff; }
   .bar-content .button {
     border-color: transparent;
-    background-color: #f70;
+    background-color: #333333;
     color: #fff; }
     .bar-content .button:hover {
       color: #fff;
       text-decoration: none; }
     .bar-content .button.active, .bar-content .button.activated {
       border-color: transparent;
-      background-color: #f70;
+      background-color: #333333;
       box-shadow: inset 0 1px 4px rgba(0, 0, 0, 0.1); }
     .bar-content .button.button-clear {
       border-color: transparent;
@@ -8142,7 +8142,7 @@ mm-timer.mm-timer.mm-timer-timeleft-15 {
 
 .bar-side-menu {
   border-color: transparent;
-  background-color: #f70;
+  background-color: #333333;
   background-image: linear-gradient(0deg, transparent, transparent 50%, transparent 50%);
   color: #fff;
   height: 80px !important; }
