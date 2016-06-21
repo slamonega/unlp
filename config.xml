@@ -5,7 +5,7 @@
         id        = "com.moodleapp.uns"
         versionCode = "2012"
         version   = "3.1.0">
-    <name>CTEP</name>
+    <name>Campus UNS</name>
 
     <description>
         Aplicación de acceso al Campus de la Universidad Nacional del Sur
