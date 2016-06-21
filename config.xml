@@ -2,13 +2,13 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.ictio.ctep"
+        id        = "com.moodleapp.uns"
         versionCode = "2012"
         version   = "3.1.0">
     <name>CTEP</name>
 
     <description>
-        Aplicación de apoyo al desarrollo de la Economía Social del Conocimiento
+        Aplicación de acceso al Campus de la Universidad Nacional del Sur
     </description>
 
     <author href="http://moodleapp.com" email="contact@moodleapp.com">
