@@ -8,5 +8,5 @@
     "wsservice" : "moodle_mobile_app",
     "wsextservice" : "local_mobile",
     "siteurl": "https://moodle.uns.edu.ar/catedras/",
-    "customurlscheme": "moodlemobile"
+   
 }
