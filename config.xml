@@ -5,7 +5,7 @@
         id        = "com.moodleapp.unlp"
         versionCode = "2012"
         version   = "3.1.0">
-    <name>Campus UNLP</name>
+    <name>UNLP</name>
 
     <description>
         Aplicación de acceso a los Campus Virtuales de la Universidad Nacional de La Plata
