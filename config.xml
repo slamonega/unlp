@@ -2,13 +2,13 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.moodleapp.uns"
+        id        = "com.moodleapp.unlp"
         versionCode = "2012"
         version   = "3.1.0">
-    <name>Campus UNS</name>
+    <name>Campus UNLP</name>
 
     <description>
-        Aplicación de acceso al Campus de la Universidad Nacional del Sur
+        Aplicación de acceso al Campus de la Universidad Nacional de La Plata
     </description>
 
     <author href="http://moodleapp.com" email="contact@moodleapp.com">
