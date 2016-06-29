@@ -424,7 +424,7 @@
     "mm.login.cannotdownloadfiles": "La descarga de archivos está desactivada en el servicio móvil de Moodle, la aplicación no puede funcionar con este parámetro desactivado. Por favor, contacte con el administrador del sitio.",
     "mm.login.confirmdeletesite": "¿Está seguro de que quiere eliminar el sitio {{sitename}}?",
     "mm.login.connect": "Conectar",
-    "mm.login.connecttomoodle": "Conectar a Moodle",
+    "mm.login.connecttomoodle": "Conectar al Campus",
     "mm.login.credentials": "Credenciales",
     "mm.login.credentialsdescription": "Introduzca su nombre de usuario y contraseña para entrar",
     "mm.login.erroraccesscontrolalloworigin": "La llamada Cross-Origin que está intentando ha sido rechazada. Por favor visite https://docs.moodle.org/dev/Moodle_Mobile_development_using_Chrome_or_Chromium",
