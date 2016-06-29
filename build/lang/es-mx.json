@@ -442,7 +442,7 @@
     "mm.login.loginbutton": "¡Ingreso!",
     "mm.login.logininsiterequired": "Usted necesita ingresar al sitio con una ventana del navegador.",
     "mm.login.mobileservicesnotenabled": "Los servicios móviles no están habilitados en su sitio. Por favor, contacte a su administrador del sitio Moodle si Usted piensa que se debería habilitar el acceso por dispositivos móviles.",
-    "mm.login.newsitedescription": "Por favor escriba la uRL de su sitio Moodle. Tome nota de que este podría no estar configurado para trabajar con esta app.",
+    "mm.login.newsitedescription": "Es necesario que introduzcas la URL correspondiente al campus que vas a utilizar, esto se realiza una sola vez y es posible utilizar la misma aplicación para los campus de todas las facultades.",
     "mm.login.notloggedin": "Usted necesita estar ingresado.",
     "mm.login.password": "Contraseña",
     "mm.login.passwordrequired": "Contraseña obligatoria",
