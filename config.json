@@ -8,6 +8,5 @@
     "wsservice" : "moodle_mobile_app",
     "wsextservice" : "local_mobile",
     "demo_sites": {},
-    "siteurl": "https://learn.moodle.net/",
-    "gcmpn": "learn-moodle-1159"
+
 }
