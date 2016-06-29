@@ -426,7 +426,7 @@
     "mm.login.cannotdownloadfiles": "La descarga de archivos está deshabilitada en su servicio Mobile, la app nop puede trabajar con esta configuración deshbilitada. Por favor contacte al administrador de su sitio.",
     "mm.login.confirmdeletesite": "¿Está Usted seguro de querer eliminar el sitio {{sitename}}?",
     "mm.login.connect": "¡Conectar!",
-    "mm.login.connecttomoodle": "Conectar a Moodle",
+    "mm.login.connecttomoodle": "Conectar al Campus",
     "mm.login.credentials": "Credenciales",
     "mm.login.credentialsdescription": "Por favor proporcione su nombre_de_usuario y contraseña para ingresar",
     "mm.login.erroraccesscontrolalloworigin": "La llamada de Orígen Cruzado (''Cross-Origin'') que Usted está tratando de realizar ha sido rechazada. Por favor revise  https://docs.moodle.org/dev/Moodle_Mobile_development_using_Chrome_or_Chromium",
